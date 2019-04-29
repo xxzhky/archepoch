@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.gp.vip.ptn.decorator.v1.BatterCakeTest</OriginalElement>
+  <nodes>
+    <node x="0.0" y="428.0">com.gp.vip.ptn.decorator.v1.BatterCakeTest</node>
+    <node x="283.5" y="140.5">com.gp.vip.ptn.decorator.v1.BaseBatterCake</node>
+    <node x="194.99999999999997" y="0.0">com.gp.vip.ptn.decorator.v1.BatterCake</node>
+    <node x="65.49999999999997" y="129.0">com.gp.vip.ptn.decorator.v1.BatterCakeDecorator</node>
+    <node x="168.0" y="281.0">com.gp.vip.ptn.decorator.v1.SausageDecorator</node>
+    <node x="0.0" y="281.0">com.gp.vip.ptn.decorator.v1.EggDecorator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.gp.vip.ptn.decorator.v1.EggDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+      <point x="0.0" y="-51.0" />
+      <point x="74.0" y="256.0" />
+      <point x="114.99999999999997" y="256.0" />
+      <point x="-49.5" y="51.0" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+      <point x="0.0" y="-51.0" />
+      <point x="164.49999999999997" y="104.0" />
+      <point x="229.24999999999997" y="104.0" />
+      <point x="-34.25" y="39.5" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.v1.SausageDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+      <point x="0.0" y="-51.0" />
+      <point x="255.0" y="256.0" />
+      <point x="213.99999999999997" y="256.0" />
+      <point x="49.5" y="51.0" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.v1.BaseBatterCake" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+      <point x="0.0" y="-39.5" />
+      <point x="362.5" y="104.0" />
+      <point x="297.75" y="104.0" />
+      <point x="34.25" y="39.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="242.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

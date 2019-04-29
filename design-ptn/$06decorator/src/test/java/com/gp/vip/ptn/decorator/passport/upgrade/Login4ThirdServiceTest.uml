@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest</OriginalElement>
+  <nodes>
+    <node x="504.5" y="161.5">com.gp.vip.ptn.decorator.passport.old.SigninService</node>
+    <node x="310.1712962962963" y="565.0">com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest</node>
+    <node x="168.5" y="127.0">com.gp.vip.ptn.decorator.passport.upgrade.ILogin4ThirdService</node>
+    <node x="0.0" y="323.0">com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdService</node>
+    <node x="144.125" y="0.0">com.gp.vip.ptn.decorator.passport.old.ISigninService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdService" target="com.gp.vip.ptn.decorator.passport.old.ISigninService">
+      <point x="0.0" y="-96.0" />
+      <point x="157.31018518518522" y="107.0" />
+      <point x="236.75" y="107.0" />
+      <point x="-30.875" y="38.5" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.old.SigninService" target="com.gp.vip.ptn.decorator.passport.old.ISigninService">
+      <point x="0.0" y="-38.5" />
+      <point x="628.0" y="107.0" />
+      <point x="360.25" y="107.0" />
+      <point x="92.625" y="38.5" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest" target="com.gp.vip.ptn.decorator.passport.upgrade.ILogin4ThirdService">
+      <point x="0.0" y="-27.0" />
+      <point x="401.1712962962963" y="540.0" />
+      <point x="405.5" y="540.0" />
+      <point x="79.0" y="73.0" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdService" target="com.gp.vip.ptn.decorator.passport.upgrade.ILogin4ThirdService">
+      <point x="105.33333333333331" y="-96.0" />
+      <point x="263.3333333333333" y="298.0" />
+      <point x="247.5" y="298.0" />
+      <point x="-79.0" y="73.0" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest" target="com.gp.vip.ptn.decorator.passport.old.SigninService">
+      <point x="60.666666666666686" y="-27.0" />
+      <point x="461.837962962963" y="540.0" />
+      <point x="628.0" y="540.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.ILogin4ThirdService" target="com.gp.vip.ptn.decorator.passport.old.ISigninService">
+      <point x="0.0" y="-73.0" />
+      <point x="326.5" y="107.0" />
+      <point x="298.5" y="107.0" />
+      <point x="30.875" y="38.5" />
+    </edge>
+    <edge source="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest" target="com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdService">
+      <point x="-60.66666666666663" y="-27.0" />
+      <point x="340.5046296296297" y="540.0" />
+      <point x="158.0" y="540.0" />
+      <point x="0.0" y="96.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="376.0" y="309.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

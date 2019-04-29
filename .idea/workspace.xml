@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1befea9f-c0f7-412e-afcc-cc33f0d68078" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mycat/target/" />
+    <ignored path="$PROJECT_DIR$/zk-theory/target/" />
+    <ignored path="$PROJECT_DIR$/design-ptn/target/" />
+    <ignored path="$PROJECT_DIR$/design-ptn/$06decorator/target/" />
+    <ignored path="$PROJECT_DIR$/spring2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="archepoch" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/TestWeakReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCakeDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/SausageDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/BattercakeWithEggAndSausage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BaseBatterCake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/v1/BatterCakeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/v1/BatterCakeTest.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.gp.vip.ptn.decorator.v1.BatterCakeTest</OriginalElement>
+              <nodes>
+                <node x="0.0" y="428.0">com.gp.vip.ptn.decorator.v1.BatterCakeTest</node>
+                <node x="296.5" y="140.5">com.gp.vip.ptn.decorator.v1.BaseBatterCake</node>
+                <node x="208.00000000000003" y="0.0">com.gp.vip.ptn.decorator.v1.BatterCake</node>
+                <node x="78.5" y="129.0">com.gp.vip.ptn.decorator.v1.BatterCakeDecorator</node>
+                <node x="0.0" y="281.0">com.gp.vip.ptn.decorator.v1.SausageDecorator</node>
+                <node x="194.0" y="281.0">com.gp.vip.ptn.decorator.v1.EggDecorator</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.gp.vip.ptn.decorator.v1.EggDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+                  <point x="0.0" y="-51.0" />
+                  <point x="268.0" y="256.0" />
+                  <point x="227.0" y="256.0" />
+                  <point x="49.5" y="51.0" />
+                </edge>
+                <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+                  <point x="2.8421709430404007E-14" y="-51.0" />
+                  <point x="177.50000000000003" y="104.0" />
+                  <point x="242.25000000000003" y="104.0" />
+                  <point x="-34.25" y="39.5" />
+                </edge>
+                <edge source="com.gp.vip.ptn.decorator.v1.SausageDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+                  <point x="0.0" y="-51.0" />
+                  <point x="87.0" y="256.0" />
+                  <point x="128.0" y="256.0" />
+                  <point x="-49.5" y="51.0" />
+                </edge>
+                <edge source="com.gp.vip.ptn.decorator.v1.BaseBatterCake" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+                  <point x="0.0" y="-39.5" />
+                  <point x="375.5" y="104.0" />
+                  <point x="310.75" y="104.0" />
+                  <point x="34.25" y="39.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="242.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/EggDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/upgrade/Login4ThirdService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>notEmpty</find>
+      <find>max_unique</find>
+      <find>TransactionAwareCacheDecorator</find>
+      <find>DispatcherSe</find>
+      <find>spring-vip-spring</find>
+      <find>@RequiredArgsConstructor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mycat/pom.xml" />
+        <option value="$PROJECT_DIR$/zk-theory/pom.xml" />
+        <option value="$PROJECT_DIR$/zk-theory/ZK.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/classloaded.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/classloaded/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/classloaded/ChildClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/classloaded/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/classloaded/FatherClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue/model01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue01/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue01/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue02/Modelx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue01/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/mycat/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue02/BlockingQueuePattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue02/OptimisticLockPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue02/PessimisticLockPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/queue02/ProductAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/GetNonrepetiveStringsLens.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/design-ptn/pom.xml" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/Battercake.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/BattercakeWithEggandSausage.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/BattercakeWithEgg.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/BattercakeWithEggAndSausage.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BaseBatterCake.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/v1/BatterCakeTest.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/old/Member.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/upgrade/ILogin4ThirdService.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCakeDecorator.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/upgrade/Login4ThirdService.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/passport/upgrade/Login4ThirdServiceTest.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/README.md" />
+        <option value="$PROJECT_DIR$/spring2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring2/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPHandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/spring2/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContextAware.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCake.java" />
+        <option value="$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/ValueRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/GetNonrepetitiveStringsLens.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java" />
+        <option value="$PROJECT_DIR$/spring2/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/TestWeakReference.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Tool/eclipse-jee-neon-2/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+              <item name="upgrade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="design-ptn" type="462c0819:PsiDirectoryNode" />
+              <item name="$06decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="archepoch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="archepoch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestWeakReference.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.gp.vip.ptn.decorator.passport.upgrade" />
+      <recent name="com.gp.vip.ptn.decorator.v1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DevSoft\COURSE_sourcecode\archepoch\design-ptn\$06decorator\src\test\java\com\gp\vip\ptn\decorator\v1" />
+      <recent name="E:\DevSoft\COURSE_sourcecode\archepoch\design-ptn\$06decorator\src\main\java\com\gp\vip\ptn\decorator\v1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gp.vip.ptn.decorator.v1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DevSoft\COURSE_sourcecode\archepoch\design-ptn\$06decorator\src\main\java\com\gp\vip\ptn\decorator\passport" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ComputeSeqLens">
+    <configuration name="ComputeSeqLens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gp.vip.interview.test.seqops.ComputeSeqLens" />
+      <module name="arch-epoch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gp.vip.interview.test.seqops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNonrepetitiveStringsLens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gp.vip.interview.test.seqops.GetNonrepetitiveStringsLens" />
+      <module name="arch-epoch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gp.vip.interview.test.seqops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWeakReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gp.vip.interview.test.TestWeakReference" />
+      <module name="arch-epoch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gp.vip.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gp.vip.interview.test.ThreadTest" />
+      <module name="arch-epoch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gp.vip.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gp.vip.interview.test.ValueRef" />
+      <module name="arch-epoch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gp.vip.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ComputeSeqLens" />
+      <item itemvalue="Application.ValueRef" />
+      <item itemvalue="Application.TestWeakReference" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.GetNonrepetitiveStringsLens" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComputeSeqLens" />
+        <item itemvalue="Application.GetNonrepetitiveStringsLens" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.TestWeakReference" />
+        <item itemvalue="Application.ValueRef" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1befea9f-c0f7-412e-afcc-cc33f0d68078" name="Default Changelist" comment="" />
+      <created>1551551892373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551551892373</updated>
+      <workItem from="1551551902350" duration="14000" />
+      <workItem from="1551551963365" duration="2278000" />
+      <workItem from="1551594558514" duration="411000" />
+      <workItem from="1551614131740" duration="4220000" />
+      <workItem from="1551723070315" duration="3316000" />
+      <workItem from="1551788312282" duration="2425000" />
+      <workItem from="1551885593865" duration="3056000" />
+      <workItem from="1552219946760" duration="2470000" />
+      <workItem from="1552630849027" duration="21854000" />
+      <workItem from="1552745693692" duration="14000000" />
+      <workItem from="1552876584403" duration="7436000" />
+      <workItem from="1552992213414" duration="2036000" />
+      <workItem from="1552994577892" duration="13780000" />
+      <workItem from="1553028338786" duration="260000" />
+      <workItem from="1553058319330" duration="1287000" />
+      <workItem from="1553086434655" duration="721000" />
+      <workItem from="1553104840979" duration="6799000" />
+      <workItem from="1553342261931" duration="2039000" />
+      <workItem from="1554136222024" duration="2897000" />
+      <workItem from="1554645309882" duration="1468000" />
+      <workItem from="1554980980959" duration="2435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BatterCakeTest_getMsg - 2019.03.19 at 18h 20m 09s.xml">
+      <configuration name="BatterCakeTest.getMsg" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95202000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.789925" weight="0.2" />
+      <window_info id="Structure" order="1" sideWeight="0.21007502" side_tool="true" weight="0.2" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50159746" side_tool="true" weight="0.18496802" />
+      <window_info id="Web" order="6" sideWeight="0.50159746" side_tool="true" weight="0.18496802" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.35691318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3022508" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.20042872" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="8" side_tool="true" visible="true" weight="0.24840085" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/GetNonrepetitiveStringsLens.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a.charAt(i) ^ a.charAt(j)" language="JAVA" />
+        <watch expression="a.charAt(i)" />
+        <watch expression="a.charAt(j)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>a.charAt(i) ^ a.charAt(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.gp.vip.ptn.decorator.v1.BatterCakeTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gp.vip.ptn.decorator.v1.BatterCakeTest</OriginalElement>
+          <nodes>
+            <node x="211.3260281385281" y="391.0">com.gp.vip.ptn.decorator.v1.BatterCakeTest</node>
+            <node x="0.0" y="137.0">com.gp.vip.ptn.decorator.v1.BaseBatterCake</node>
+            <node x="213.73890692640688" y="0.0">com.gp.vip.ptn.decorator.v1.BatterCake</node>
+            <node x="302.2389069264069" y="264.0">com.gp.vip.ptn.decorator.v1.SausageDecorator</node>
+            <node x="199.8260281385281" y="137.0">com.gp.vip.ptn.decorator.v1.BatterCakeDecorator</node>
+            <node x="125.23890692640691" y="264.0">com.gp.vip.ptn.decorator.v1.EggDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeTest" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="55.5" y="-27.0" />
+              <point x="340.8260281385281" y="371.0" />
+              <point x="469.7389069264069" y="371.0" />
+              <point x="469.7389069264069" y="97.0" />
+              <point x="359.52462121212113" y="97.0" />
+              <point x="67.28571428571428" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.EggDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+              <point x="52.333333333333314" y="-38.5" />
+              <point x="256.0722402597402" y="239.0" />
+              <point x="263.9510281385281" y="239.0" />
+              <point x="-21.375" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.SausageDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="52.33333333333333" y="-38.5" />
+              <point x="433.0722402597402" y="239.0" />
+              <point x="418.0514069264069" y="239.0" />
+              <point x="418.0514069264069" y="107.0" />
+              <point x="337.0960497835498" y="107.0" />
+              <point x="44.85714285714289" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeTest" target="com.gp.vip.ptn.decorator.v1.BaseBatterCake">
+              <point x="-55.5" y="-27.0" />
+              <point x="229.8260281385281" y="371.0" />
+              <point x="78.5" y="371.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeTest" target="com.gp.vip.ptn.decorator.v1.SausageDecorator">
+              <point x="18.5" y="-27.0" />
+              <point x="303.8260281385281" y="361.0" />
+              <point x="380.7389069264069" y="361.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeTest" target="com.gp.vip.ptn.decorator.v1.EggDecorator">
+              <point x="-18.5" y="-27.0" />
+              <point x="266.8260281385281" y="361.0" />
+              <point x="203.7389069264069" y="361.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="0.0" y="-38.5" />
+              <point x="285.3260281385281" y="117.0" />
+              <point x="292.2389069264069" y="117.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.SausageDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+              <point x="-52.33333333333334" y="-38.5" />
+              <point x="328.40557359307354" y="239.0" />
+              <point x="306.7010281385281" y="239.0" />
+              <point x="21.375" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.EggDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="-52.333333333333314" y="-38.5" />
+              <point x="151.4055735930736" y="239.0" />
+              <point x="175.9375" y="239.0" />
+              <point x="175.9375" y="107.0" />
+              <point x="247.38176406926405" y="107.0" />
+              <point x="-44.85714285714283" y="38.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BaseBatterCake" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="0.0" y="-38.5" />
+              <point x="78.5" y="97.0" />
+              <point x="224.9531926406926" y="97.0" />
+              <point x="-67.28571428571428" y="38.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="-193.0" y="69.0" />
+          <SelectedNodes>
+            <node>com.gp.vip.ptn.decorator.v1.BatterCakeTest</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/old/ISigninService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/upgrade/ILogin4ThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest</OriginalElement>
+          <nodes>
+            <node x="" y="">com.gp.vip.ptn.decorator.passport.old.SigninService</node>
+            <node x="" y="">com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdServiceTest</node>
+            <node x="" y="">com.gp.vip.ptn.decorator.passport.upgrade.ILogin4ThirdService</node>
+            <node x="" y="">com.gp.vip.ptn.decorator.passport.upgrade.Login4ThirdService</node>
+            <node x="" y="">com.gp.vip.ptn.decorator.passport.old.ISigninService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="376.0" y="310.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/passport/upgrade/IOStream.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.BufferedReader</OriginalElement>
+          <nodes>
+            <node x="506.5" y="945.0">java.io.DataInputStream</node>
+            <node x="389.8125" y="588.0">java.io.FilterInputStream</node>
+            <node x="267.5" y="1014.0">java.io.BufferedInputStream</node>
+            <node x="627.8125" y="645.5">com.sun.xml.internal.messaging.saaj.util.ByteInputStream</node>
+            <node x="614.5" y="104.0">java.io.Closeable</node>
+            <node x="0.0" y="104.0">java.lang.Readable</node>
+            <node x="42.5" y="1060.0">java.io.LineNumberReader</node>
+            <node x="36.0" y="530.5">java.io.BufferedReader</node>
+            <node x="819.8125" y="519.0">java.io.FileInputStream</node>
+            <node x="36.0" y="208.0">java.io.Reader</node>
+            <node x="614.5" y="0.0">java.lang.AutoCloseable</node>
+            <node x="605.25" y="219.5">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.LineNumberReader" target="java.io.BufferedReader">
+              <point x="0.0" y="-107.5" />
+              <point x="0.0" y="176.5" />
+            </edge>
+            <edge source="java.io.Reader" target="java.io.Closeable">
+              <point x="54.5" y="-130.5" />
+              <point x="199.5" y="183.0" />
+              <point x="647.75" y="183.0" />
+              <point x="-33.25" y="27.0" />
+            </edge>
+            <edge source="java.io.Reader" target="java.lang.Readable">
+              <point x="-54.5" y="-130.5" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-119.0" />
+              <point x="33.25" y="27.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-188.0" />
+              <point x="932.3125" y="494.0" />
+              <point x="786.9166666666667" y="494.0" />
+              <point x="72.66666666666674" y="119.0" />
+            </edge>
+            <edge source="com.sun.xml.internal.messaging.saaj.util.ByteInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-61.5" />
+              <point x="0.0" y="119.0" />
+            </edge>
+            <edge source="java.io.BufferedReader" target="java.io.Reader">
+              <point x="0.0" y="-176.5" />
+              <point x="0.0" y="130.5" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-153.5" />
+              <point x="377.0" y="920.0" />
+              <point x="444.3125" y="920.0" />
+              <point x="-54.5" y="119.0" />
+            </edge>
+            <edge source="java.io.FilterInputStream" target="java.io.InputStream">
+              <point x="5.6843418860808015E-14" y="-119.0" />
+              <point x="498.8125000000001" y="494.0" />
+              <point x="641.5833333333334" y="494.0" />
+              <point x="-72.66666666666663" y="119.0" />
+            </edge>
+            <edge source="java.io.DataInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-222.5" />
+              <point x="621.5" y="920.0" />
+              <point x="553.3125000000001" y="920.0" />
+              <point x="54.50000000000006" y="119.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-29.0" y="220.0" />
+          <SelectedNodes>
+            <node>java.io.FileInputStream</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.BufferedReader">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.BufferedReader</OriginalElement>
+          <nodes>
+            <node x="" y="">java.io.DataInputStream</node>
+            <node x="" y="">java.io.FilterInputStream</node>
+            <node x="" y="">java.io.BufferedInputStream</node>
+            <node x="" y="">com.sun.xml.internal.messaging.saaj.util.ByteInputStream</node>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.Readable</node>
+            <node x="" y="">java.io.LineNumberReader</node>
+            <node x="" y="">java.io.FileInputStream</node>
+            <node x="" y="">java.io.BufferedReader</node>
+            <node x="" y="">java.io.Reader</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+            <node x="" y="">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="525.0" y="258.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.0.8.RELEASE/spring-context-support-5.0.8.RELEASE.jar!/org/springframework/cache/transaction/TransactionAwareCacheDecorator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="71" column="55" lean-forward="true" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.0.8.RELEASE/spring-context-support-5.0.8.RELEASE-sources.jar!/org/springframework/cache/transaction/TransactionAwareCacheManagerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="82" column="72" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.0.8.RELEASE/spring-context-support-5.0.8.RELEASE-sources.jar!/org/springframework/cache/transaction/TransactionAwareCacheDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.0.8.RELEASE/spring-context-support-5.0.8.RELEASE-sources.jar!/org/springframework/cache/transaction/AbstractTransactionSupportingCacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.cache.transaction.TransactionAwareCacheDecorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.cache.transaction.TransactionAwareCacheDecorator</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.cache.Cache</node>
+            <node x="" y="">org.springframework.cache.transaction.TransactionAwareCacheDecorator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="93.0" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.http.server.reactive.HttpHeadResponseDecorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.http.server.reactive.HttpHeadResponseDecorator</OriginalElement>
+          <nodes>
+            <node x="29.5" y="162.0">org.springframework.http.server.reactive.ServerHttpResponse</node>
+            <node x="0.0" y="243.0">org.springframework.http.server.reactive.ServerHttpResponseDecorator</node>
+            <node x="3.0" y="324.0">org.springframework.http.server.reactive.HttpHeadResponseDecorator</node>
+            <node x="50.0" y="0.0">org.springframework.http.HttpMessage</node>
+            <node x="6.0" y="81.0">org.springframework.http.ReactiveHttpOutputMessage</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.http.ReactiveHttpOutputMessage" target="org.springframework.http.HttpMessage">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.http.server.reactive.HttpHeadResponseDecorator" target="org.springframework.http.server.reactive.ServerHttpResponseDecorator">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.http.server.reactive.ServerHttpResponseDecorator" target="org.springframework.http.server.reactive.ServerHttpResponse">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.http.server.reactive.ServerHttpResponse" target="org.springframework.http.ReactiveHttpOutputMessage">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-411.0" y="-21.0" />
+          <SelectedNodes>
+            <node>org.springframework.http.server.reactive.HttpHeadResponseDecorator</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/http/server/reactive/HttpHeadResponseDecorator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.ibatis.cache.Cache">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.ibatis.cache.Cache</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">org.apache.ibatis.cache.Cache</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-483.0" y="-183.0" />
+          <SelectedNodes>
+            <node>org.apache.ibatis.cache.Cache</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/mybatis">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>mybatis</OriginalElement>
+          <nodes>
+            <node x="" y="">mybatis</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.ibatis.cache.decorators.FifoCache">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.ibatis.cache.decorators.FifoCache</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.ibatis.cache.Cache</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="42.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/cache/decorators/FifoCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/cache/Cache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/passport/upgrade/Login4ThirdServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/resources/webdefault.xml" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/resources/layouts/first.html" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring2/spring2.iml" />
+    <entry file="file://$PROJECT_DIR$/spring2/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPDispatcherServlet.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContextAware.java" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPHandlerAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/spring2/src/main/java/Test.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/ValueRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/old/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/GetNonrepetitiveStringsLens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/seqops/ComputeSeqLens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gp/vip/interview/test/TestWeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/passport/upgrade/Login4ThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BaseBatterCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/BattercakeWithEggAndSausage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/v1/BatterCakeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/main/java/com/gp/vip/ptn/decorator/v1/BatterCakeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-ptn/$06decorator/src/test/java/com/gp/vip/ptn/decorator/v1/BatterCakeTest.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gp.vip.ptn.decorator.v1.BatterCakeTest</OriginalElement>
+          <nodes>
+            <node x="0.0" y="428.0">com.gp.vip.ptn.decorator.v1.BatterCakeTest</node>
+            <node x="296.5" y="140.5">com.gp.vip.ptn.decorator.v1.BaseBatterCake</node>
+            <node x="208.00000000000003" y="0.0">com.gp.vip.ptn.decorator.v1.BatterCake</node>
+            <node x="78.5" y="129.0">com.gp.vip.ptn.decorator.v1.BatterCakeDecorator</node>
+            <node x="0.0" y="281.0">com.gp.vip.ptn.decorator.v1.SausageDecorator</node>
+            <node x="194.0" y="281.0">com.gp.vip.ptn.decorator.v1.EggDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.gp.vip.ptn.decorator.v1.EggDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+              <point x="0.0" y="-51.0" />
+              <point x="268.0" y="256.0" />
+              <point x="227.0" y="256.0" />
+              <point x="49.5" y="51.0" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="2.8421709430404007E-14" y="-51.0" />
+              <point x="177.50000000000003" y="104.0" />
+              <point x="242.25000000000003" y="104.0" />
+              <point x="-34.25" y="39.5" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.SausageDecorator" target="com.gp.vip.ptn.decorator.v1.BatterCakeDecorator">
+              <point x="0.0" y="-51.0" />
+              <point x="87.0" y="256.0" />
+              <point x="128.0" y="256.0" />
+              <point x="-49.5" y="51.0" />
+            </edge>
+            <edge source="com.gp.vip.ptn.decorator.v1.BaseBatterCake" target="com.gp.vip.ptn.decorator.v1.BatterCake">
+              <point x="0.0" y="-39.5" />
+              <point x="375.5" y="104.0" />
+              <point x="310.75" y="104.0" />
+              <point x="34.25" y="39.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="242.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
